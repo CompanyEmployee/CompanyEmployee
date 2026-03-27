@@ -30,6 +30,7 @@ Solo game developer building AI-assisted games with **Godot 4 (GDScript)**.
 
 ---
 
-### Turkish
+### Türkçe
 AI destekli, solo oyun geliştirme süreciyle 2D roguelite oyunlar geliştiriyorum.
 Odak noktam: temiz ilerleme, test edilebilir adımlar ve Steam'e giden sürdürülebilir üretim.
+
