@@ -2,9 +2,9 @@
 
 Solo game developer building AI-assisted games with **Godot 4 (GDScript)**.
 
-![Currently Building](https://img.shields.io/badge/Currently%20Building-Project%20A%20(Roguelite)-6f42c1?style=flat-square)
-![Engine](https://img.shields.io/badge/Engine-Godot%204.6.1-478cbf?style=flat-square&logo=godot-engine&logoColor=white)
-![Workflow](https://img.shields.io/badge/Workflow-AI--assisted%20Solo-1f883d?style=flat-square)
+![Currently Building](https://img.shields.io/badge/Currently%20Building-Project%20A%20(Roguelite)-2f2f2f?style=for-the-badge)
+![Engine](https://img.shields.io/badge/Engine-Godot%204.6.1-2f2f2f?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Workflow](https://img.shields.io/badge/Workflow-AI--assisted%20Solo-2f2f2f?style=for-the-badge)
 
 ## What I Focus On
 - 2D roguelite / survivor-like gameplay loops
