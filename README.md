@@ -19,7 +19,7 @@ Solo game developer building AI-assisted games with **Godot 4 (GDScript)**.
 
 ## Featured Project
 - **Project A Showcase** - Public showcase for an AI-assisted solo 2D roguelite in Godot 4
-- Repo: https://github.com/CompanyEmployee/project-a-showcase
+- Repo: https://github.com/umut-yasin-yilmaz/project-a-showcase
 - Highlights: project direction, QA checklist, risk register, and safe public progress snapshots
 
 ## Development Workflow (AI-Assisted)
@@ -35,7 +35,7 @@ Solo game developer building AI-assisted games with **Godot 4 (GDScript)**.
 - GitHub CLI (gh)
 
 ## Find Me
-- GitHub: https://github.com/CompanyEmployee
+- GitHub: https://github.com/umut-yasin-yilmaz
 
 ---
 
