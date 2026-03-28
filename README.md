@@ -70,8 +70,8 @@ Direction, **QA checklist**, **risk register**, and **playtest builds** (GitHub 
 
 ## Türkçe
 
-**Solo indie** oyun geliştiricisiyim; **Godot 4** ile **2D roguelite** oynanışı üretiyorum — üretim kodu **typed GDScript**.  
-**AI destekli** çalışıyorum: büyük dil modelleri uygulama ve refaktörleri hızlandırır; **tasarım hedefleri, kabul kriterleri ve son kararlar bende** kalır.
+**Solo indie** oyun geliştiricisiyim; **Godot 4** ile **2D roguelite** oynanışı üretiyorum ve üretim kodunda **tip güvenli GDScript** kullanıyorum.  
+**Yapay zekâ destekli** çalışıyorum: büyük dil modelleri uygulama ve refaktör işlerini hızlandırır; **tasarım hedefleri, kabul kriterleri ve son söz yine bende**.
 
 ![MVP shipped](https://img.shields.io/badge/MVP-Shipped-2ea043?style=for-the-badge)
 ![Engine](https://img.shields.io/badge/Engine-Godot%204.6.1-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
@@ -84,18 +84,18 @@ Direction, **QA checklist**, **risk register**, and **playtest builds** (GitHub 
 
 | | |
 |:---|:---|
-| **Kim** | Tek kişilik **indie** — tasarım, uygulama ve üretim disiplini aynı döngüde |
-| **Nasıl üretiyorum** | **Solo**; kod ve dokümanda **AI araçları** ile hız — **tasarım kararları, kabul kriterleri ve neyin yayına gideceğine onay yine bende** |
-| **Yığın** | **Godot 4.6.1** · typed **GDScript** · **Git** / **GitHub** |
-| **Şimdi** | **Project A** — Brotato esintili **2D roguelite**; private repoda **MVP yayında** (`mvp-0.1`); sırada: hazır olunca demo cilâsı ve dağıtım |
+| **Kim** | Tek kişilik **indie**: tasarım, uygulama ve üretim disiplinini aynı döngüde yürütüyorum |
+| **Nasıl üretiyorum** | **Solo**; kod ve dokümanda **yapay zekâ araçları** hız sağlar. **Tasarım kararları, kabul kriterleri ve yayına neyin gideceği konusundaki onay bende** |
+| **Yığın** | **Godot 4.6.1**, tip güvenli **GDScript**, **Git** / **GitHub** |
+| **Şimdi** | **Project A**: Brotato esintili **2D roguelite**; özel (private) repoda **MVP yayında** (`mvp-0.1`). Sırada, hazır olduğunda demo cilâsı ve dağıtım |
 
 ---
 
 ## Önceliklerim
 
-- **Önce his** döngüleri — **survivor-like** bağlamında dalgalar, ekonomi, yükseltmeler  
-- **Kapanan milestone’lar** — sınırlı MVP’ler, net “bitti” tanımı, tekrarlanabilir **tag’ler**  
-- **Solo’ya ölçeklenen süreç** — QA kapıları, risk takibi, crunch’e dayanan dokümanlar  
+- **Önce his** döngüleri: **hayatta kalma (survivor) tarzı** yapıda dalgalar, ekonomi, yükseltmeler  
+- **Kapanan kilometre taşları**: sınırlı MVP’ler, net “bitti” tanımı, tekrarlanabilir **sürüm etiketleri**  
+- **Tek kişiye uygun süreç**: QA kapıları, risk takibi, yoğun dönemlerde de işe yarayan dokümanlar  
 
 ---
 
@@ -103,10 +103,10 @@ Direction, **QA checklist**, **risk register**, and **playtest builds** (GitHub 
 
 | | |
 |---|---|
-| **Özet** | **2D roguelite** — süreli dalgalar, materyaller, dalgalar arası dükkân, koşuyu tamamla |
-| **Motor** | Godot **4.6.1**, typed **GDScript** |
-| **Durum** | **MVP yayında** (private üretim deposu, **`mvp-0.1`**) |
-| **Sırada** | Demo odaklı cilâ ve yayın planı — **erken mağaza hikâyesi yok** |
+| **Özet** | **2D roguelite**: süreli dalgalar, materyaller, dalgalar arası dükkân, koşuyu tamamlama |
+| **Motor** | Godot **4.6.1**, tip güvenli **GDScript** |
+| **Durum** | **MVP yayında** (özel üretim deposu, **`mvp-0.1`**) |
+| **Sırada** | Demo odaklı cilâ ve yayın planı; **henüz erken mağaza anlatısı yok** |
 
 ---
 
@@ -116,19 +116,19 @@ Yapay zekâyı **güç çarpanı** olarak kullanıyorum; **yaratıcı yönetmen*
 
 | Uygun olduğu yer | Uygun olmadığı yer |
 |------------------|---------------------|
-| Boilerplate, refaktör, daha hızlı iterasyon | Tasarım veya denge **zevkini** ikame etmek |
-| Doküman / checklist taslağı | **Nihai** milestone veya yayın kararları |
-| Uygulama seçeneklerini keşfetmek | Özelliklerde **insan kabul eşiğini** atlamak |
+| Tekrarlayan kod iskeleti, refaktör, daha hızlı iterasyon | Tasarım veya denge **zevkini** yerine koymak |
+| Doküman veya kontrol listesi taslağı | **Son** kilometre taşı veya yayın kararları |
+| Uygulama seçeneklerini keşfetmek | Özelliklerde **insan onayı** adımını atlamak |
 
 ---
 
 ## Vitrin ve dokümanlar
 
-Yön özeti, **QA checklist**, **risk register** ve yayımlandığında **playtest build’leri** (GitHub Releases):
+Yön özeti, **kalite kontrol listesi (QA)**, **risk kaydı** ve yayımlandığında **oynatılabilir test sürümleri** (GitHub Releases):
 
 **[project-a-showcase](https://github.com/umut-yasin-yilmaz/project-a-showcase)**
 
-> *Repo **private** ise public vitrin üzerinde aktif çalışıyorum — sonra tekrar bakın veya **pin’lenmiş repoları** izleyin.*
+> *Depo **özel (private)** ise herkese açık vitrin üzerinde çalışıyorum; ileride tekrar bakın veya **profilde sabitlenmiş repoları** kontrol edin.*
 
 ---
 
