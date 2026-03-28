@@ -73,7 +73,10 @@ Direction, **QA checklist**, **risk register**, and **playtest builds** (GitHub 
 **Solo indie** oyun geliştiricisiyim; **Godot 4** ile **2D roguelite** oynanışı üretiyorum — üretim kodu **typed GDScript**.  
 **AI destekli** çalışıyorum: büyük dil modelleri uygulama ve refaktörleri hızlandırır; **tasarım hedefleri, kabul kriterleri ve son kararlar bende** kalır.
 
-*(Üstteki rozetler İngilizce etiketlidir: MVP Shipped · Engine Godot 4.6.1 · Stack GDScript · Human-in-the-loop + AI.)*
+![MVP shipped](https://img.shields.io/badge/MVP-Shipped-2ea043?style=for-the-badge)
+![Engine](https://img.shields.io/badge/Engine-Godot%204.6.1-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-GDScript-2f2f2f?style=for-the-badge)
+![Workflow](https://img.shields.io/badge/Workflow-Human--in--the--loop%20%2B%20AI-2f2f2f?style=for-the-badge)
 
 ### Bir bakışta
 
