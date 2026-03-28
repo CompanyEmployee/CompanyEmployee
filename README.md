@@ -6,7 +6,7 @@ I work **AI-assisted**: large language models speed up implementation and refact
 ![MVP shipped](https://img.shields.io/badge/MVP-Shipped-2ea043?style=for-the-badge)
 ![Engine](https://img.shields.io/badge/Engine-Godot%204.6.1-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Stack](https://img.shields.io/badge/Stack-GDScript-2f2f2f?style=for-the-badge)
-![Workflow](https://img.shields.io/badge/Workflow-Human--in--the--loop%20%2B%20AI-555?style=for-the-badge)
+![Workflow](https://img.shields.io/badge/Workflow-Human--in--the--loop%20%2B%20AI-2f2f2f?style=for-the-badge)
 
 ---
 
