@@ -1,53 +1,88 @@
+<div align="center">
+
 # Umut Yasin YILMAZ
 
-**Solo game developer** shipping **2D roguelite** gameplay in **Godot 4** — production code in **typed GDScript**.  
-I work **AI-assisted**: large language models speed up implementation and refactors; **design goals, acceptance criteria, and final calls stay mine**.
+**Indie game developer · Solo studio · AI-assisted production**
 
-![MVP shipped](https://img.shields.io/badge/MVP-Shipped-2ea043?style=for-the-badge)
-![Engine](https://img.shields.io/badge/Godot-4.6.1-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Stack](https://img.shields.io/badge/Stack-GDScript-2f2f2f?style=for-the-badge)
-![Workflow](https://img.shields.io/badge/Workflow-Human--in--the--loop%20%2B%20AI-555?style=for-the-badge)
+*Shipping **2D roguelite** gameplay in **Godot 4** with **typed GDScript**.*
 
-## What I care about
+![MVP shipped](https://img.shields.io/badge/MVP-Shipped-2ea043?style=flat-square)
+![Indie](https://img.shields.io/badge/Indie-Solo%20developer-6e5494?style=flat-square)
+![Godot](https://img.shields.io/badge/Godot-4.6.1-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+![GDScript](https://img.shields.io/badge/Code-GDScript-2f2f2f?style=flat-square)
+![Workflow](https://img.shields.io/badge/Build%20model-Human%E2%80%93in%E2%80%93the%E2%80%93loop%20%2B%20AI-555?style=flat-square)
 
-- Tight **gameplay loops** (waves, economy, upgrades) in a **survivor-like / Brotato-style** space  
-- **Milestone discipline** — scoped MVPs, explicit done criteria, tags you can trust  
-- **Process you can audit** — QA gates, risk tracking, and docs that survive crunch  
-
-## Current game — Project A
-
-| | |
-|---|---|
-| **Pitch** | Brotato-inspired **2D roguelite** — timed waves, materials, shop between waves, survive the run |
-| **Engine** | Godot **4.6.1**, typed **GDScript** |
-| **Status** | **MVP shipped** in the private production repo (**Git tag `mvp-0.1`**) |
-| **Next** | Demo-facing polish, distribution, and store milestones when the project is ready — no rush marketing |
-
-## How I use AI (clearly)
-
-- **Good for:** boilerplate, iteration speed, refactors, test ideas, documentation drafts  
-- **Not a substitute for:** game design ownership, balancing judgment, milestone sign-off, or what ships  
-- **Rule of thumb:** every feature still passes a **human acceptance bar** before it counts as done  
-
-## Featured — showcase & artifacts
-
-Curated **direction, QA checklist, risk register**, and **playtest releases** (when published) live here:
-
-**→ [project-a-showcase](https://github.com/umut-yasin-yilmaz/project-a-showcase)**
-
-> *If that repository is **private**, I’m finishing the public vitrin — check again later or see **pinned repositories** once it’s opened up.*
-
-## Tech I touch most
-
-`Godot 4` · `GDScript` · `Git` / `GitHub` · `GitHub CLI`
+</div>
 
 ---
 
-### Türkçe
+## At a glance
 
-**Solo** oyun geliştiricisiyim; **Godot 4** ve **typed GDScript** ile **2D roguelite** üretiyorum.  
-Geliştirmede **yapay zekâyı** hız ve iterasyon için kullanıyorum; **tasarım önceliği, kabul kriterleri ve son kararlar bende**.
+| | |
+|:---|:---|
+| **Who** | One-person **indie** — design, implementation, and production discipline in one loop |
+| **How I build** | **Solo**, with **AI tools** for speed on code and docs; **you still get my** design calls, acceptance criteria, and sign-off on what ships |
+| **Stack** | **Godot 4.6.1** · typed **GDScript** · **Git** / **GitHub** |
+| **Now** | **Project A** — Brotato-style **2D roguelite**; **MVP shipped** (`mvp-0.1`) in the private repo; next focus: demo polish & distribution when ready |
 
-**Project A** için **MVP tamamlandı** (`mvp-0.1`); üretim deposu **private**, vitrin ve güvenli dokümanlar **[project-a-showcase](https://github.com/umut-yasin-yilmaz/project-a-showcase)** altında (repo **curation** sırasında geçici olarak private olabilir).
+---
 
-Odak: **oynanabilir döngü**, **disiplinli milestone**’lar, **QA + risk** ile sürdürülebilir ilerleme.
+## What I optimize for
+
+- **Feel-first loops** — waves, economy, upgrades in a **survivor-like** space  
+- **Milestones that close** — scoped MVPs, explicit “done,” reproducible **tags**  
+- **Process that scales solo** — QA gates, risk tracking, artifacts that survive crunch  
+
+---
+
+## Project A (current)
+
+| | |
+|---|---|
+| **Pitch** | **2D roguelite** — timed waves, materials, between-wave shop, survive the run |
+| **Engine** | Godot **4.6.1**, typed **GDScript** |
+| **Status** | **MVP shipped** (private production repo, **`mvp-0.1`**) |
+| **Next** | Demo-facing polish and release planning — **no premature storefront story** |
+
+---
+
+## AI in my solo pipeline
+
+I treat AI as a **force multiplier**, not a creative director.
+
+| Use it for | Do not use it for |
+|------------|-------------------|
+| Boilerplate, refactors, faster iteration | Replacing **your** taste on design or balance |
+| Drafting docs / checklists | **Final** milestone or ship decisions |
+| Exploring implementation options | Skipping a **human acceptance** bar on features |
+
+---
+
+## Showcase & artifacts
+
+Direction, **QA checklist**, **risk register**, and **playtest builds** (GitHub Releases when published):
+
+**[project-a-showcase](https://github.com/umut-yasin-yilmaz/project-a-showcase)**
+
+> *If the repo is **private**, the public vitrin is under active curation — check back or watch **pinned repositories**.*
+
+---
+
+<div align="center">
+
+**Tech ·** `Godot 4` · `GDScript` · `Git` / `GitHub` · `GitHub CLI` (`gh`)
+
+</div>
+
+---
+
+## Türkçe
+
+**Bağımsız (indie) ve solo** oyun geliştiricisiyim; **Godot 4** ve **typed GDScript** ile **2D roguelite** üretiyorum.  
+Üretim **yapay zekâ destekli**: kod ve dokümanda hız; **tasarım önceliği, kabul kriterleri ve yayına giden kararlar bende**.
+
+**Project A** — dalga / ekonomi / dükkân döngülü roguelite; **MVP tamamlandı** (`mvp-0.1`, private üretim deposu). Sırada: demo cilâsı ve dağıtım — acele mağaza anlatısı yok.
+
+Vitrin ve süreç dokümanları: **[project-a-showcase](https://github.com/umut-yasin-yilmaz/project-a-showcase)** (repo geçici **private** olabilir).
+
+Odak: **oynanabilir döngü**, **kapanan milestone**’lar, **QA + risk** ile sürdürülebilir solo üretim.
