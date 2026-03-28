@@ -70,8 +70,8 @@ Direction, **QA checklist**, **risk register**, and **playtest builds** (GitHub 
 
 ## Türkçe
 
-**Solo indie** oyun geliştiricisiyim; **Godot 4** ile **2D roguelite** oynanışı üretiyorum ve üretim kodunda **tip güvenli GDScript** kullanıyorum.  
-**Yapay zekâ destekli** çalışıyorum: büyük dil modelleri uygulama ve refaktör işlerini hızlandırır; **tasarım hedefleri, kabul kriterleri ve son söz yine bende**.
+**Tek başıma çalışan, bağımsız** bir oyun geliştiricisiyim; **Godot 4** ile **2D roguelite tarzında** oyun geliştiriyorum; üretim kodunda **typed GDScript** kullanıyorum.  
+**Yapay zekâ destekli** çalışıyorum: büyük dil modelleri uygulama ve **refaktör** işlerini hızlandırır; **tasarım hedefleri, kabul kriterleri ve son söz yine bende**.
 
 ![MVP shipped](https://img.shields.io/badge/MVP-Shipped-2ea043?style=for-the-badge)
 ![Engine](https://img.shields.io/badge/Engine-Godot%204.6.1-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
@@ -84,9 +84,9 @@ Direction, **QA checklist**, **risk register**, and **playtest builds** (GitHub 
 
 | | |
 |:---|:---|
-| **Kim** | Tek kişilik **indie**: tasarım, uygulama ve üretim disiplinini aynı döngüde yürütüyorum |
-| **Nasıl üretiyorum** | **Solo**; kod ve dokümanda **yapay zekâ araçları** hız sağlar. **Tasarım kararları, kabul kriterleri ve yayına neyin gideceği konusundaki onay bende** |
-| **Yığın** | **Godot 4.6.1**, tip güvenli **GDScript**, **Git** / **GitHub** |
+| **Kim** | **Tek başıma** çalışan **bağımsız** geliştirici: tasarım, uygulama ve üretim disiplinini aynı döngüde yürütüyorum |
+| **Nasıl üretiyorum** | **Tek kişilik** ekip modeli; kod ve dokümanda **yapay zekâ araçları** hız sağlar. **Tasarım kararları, kabul kriterleri ve yayına neyin gideceği konusundaki onay bende** |
+| **Yığın** | **Godot 4.6.1**, **typed GDScript**, **Git** / **GitHub** |
 | **Şimdi** | **Project A**: Brotato esintili **2D roguelite**; özel (private) repoda **MVP yayında** (`mvp-0.1`). Sırada, hazır olduğunda demo cilâsı ve dağıtım |
 
 ---
@@ -95,7 +95,7 @@ Direction, **QA checklist**, **risk register**, and **playtest builds** (GitHub 
 
 - **Önce his** döngüleri: **hayatta kalma (survivor) tarzı** yapıda dalgalar, ekonomi, yükseltmeler  
 - **Kapanan kilometre taşları**: sınırlı MVP’ler, net “bitti” tanımı, tekrarlanabilir **sürüm etiketleri**  
-- **Tek kişiye uygun süreç**: QA kapıları, risk takibi, yoğun dönemlerde de işe yarayan dokümanlar  
+- **Tek kişilik üretime uygun süreç**: **QA** (kalite güvencesi) kapıları, risk takibi, yoğun dönemlerde de işe yarayan dokümanlar  
 
 ---
 
@@ -103,20 +103,20 @@ Direction, **QA checklist**, **risk register**, and **playtest builds** (GitHub 
 
 | | |
 |---|---|
-| **Özet** | **2D roguelite**: süreli dalgalar, materyaller, dalgalar arası dükkân, koşuyu tamamlama |
-| **Motor** | Godot **4.6.1**, tip güvenli **GDScript** |
+| **Özet** | **2D roguelite** tarzı: süreli dalgalar, materyaller, dalgalar arası dükkân, koşuyu tamamlama |
+| **Motor** | Godot **4.6.1**, **typed GDScript** |
 | **Durum** | **MVP yayında** (özel üretim deposu, **`mvp-0.1`**) |
 | **Sırada** | Demo odaklı cilâ ve yayın planı; **henüz erken mağaza anlatısı yok** |
 
 ---
 
-## Solo hattımda yapay zekâ
+## Tek başıma üretimde yapay zekâ
 
 Yapay zekâyı **güç çarpanı** olarak kullanıyorum; **yaratıcı yönetmen** değil.
 
 | Uygun olduğu yer | Uygun olmadığı yer |
 |------------------|---------------------|
-| Tekrarlayan kod iskeleti, refaktör, daha hızlı iterasyon | Tasarım veya denge **zevkini** yerine koymak |
+| Tekrarlayan kod iskeleti, **refaktör**, daha hızlı iterasyon | Tasarım veya denge **zevkini** yerine koymak |
 | Doküman veya kontrol listesi taslağı | **Son** kilometre taşı veya yayın kararları |
 | Uygulama seçeneklerini keşfetmek | Özelliklerde **insan onayı** adımını atlamak |
 
